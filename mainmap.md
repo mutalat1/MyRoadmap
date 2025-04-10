@@ -18,16 +18,16 @@ Main language: **C++**
 ## Primary Mentor
 
 **[@mmeshref](https://www.youtube.com/@mmeshref)**  
-My main mentor. His guidance shapes this roadmap. Highly recommended for real-world insight and fundamentals. **(Real-world experience, problem-solving, and system design)**
+Mohamed Moshrif mentor YT. His guidance shapes this roadmap. Highly recommended for real-world insight and fundamentals. **(Real-world experience, problem-solving, and system design)**
 
 ---
 
-## Recommended by Moshrif
+## Recommended by Mohamed Moshrif
 
 - [Arabic Competitive Programming](https://www.youtube.com/@ArabicCompetitiveProgramming) – **C++, DSA, OOP, OOD (hands-on, advanced)**  
 - [Desouki Egypt](https://www.youtube.com/@DesoukiEgypt) – **Simplified theoretical CS**  
 - [Ahmed Elemam](https://www.youtube.com/@ahmdelemam) – **Real-world engineering experience**  
-- [Adel Nasim](https://www.youtube.com/@AdelNasim) – **Mid-level, covers multiple CS areas**  
+- [Adel Nasim](https://www.youtube.com/@AdelNasim) – **Mid-level, covers multiple CS areas**   (from me xd)
 
 ---
 
